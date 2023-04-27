@@ -1,0 +1,32 @@
+body{
+	background-color: #FDEBD0;
+	color: black;
+}
+
+h1{
+	margin: 10px;
+	border: 10px solid #85929E;
+	border-radius: 10px;
+	color: #BA4A00;
+	background-color: #FDEBD0;
+
+}
+h3{
+margin: 10px;
+border: 10px solid #85929E;
+border-radius: 10px;
+color: #BA4A00;
+background-color: #FDEBD0;
+}
+h2{
+color: #BA4A00;
+background-color: #FDEBD0;	
+}
+li{
+	margin: 7px;
+border: 7px solid #A04000;
+border-radius: 7px;
+color: #D1F2EB;
+background-color: #FDEBD0;
+}
+
